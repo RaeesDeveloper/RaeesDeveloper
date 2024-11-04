@@ -16,6 +16,7 @@
 - [ ] Operating System From Scratch: https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf
 - [ ] Computer Networks from scratch: https://github.com/TimorYang/Computer-Networking-Keith-Ross/blob/main/book/Kurose,%20James%20F._Ross,%20Keith%20W%20-      %20Computer%20networking_%20a%20top-down%20approach-Pearson%20(2017).pdf
 - [ ] Programmers perspective on computer systems: http://54.186.36.238/Computer%20Systems%20-%20A%20Programmer%27s%20Persp.%202nd%20ed.%20-%20R.%20Bryant%2C%20D.%20O%27Hallaron%20%28Pearson%2C%202010%29%20BBS.pdf
+- [ ] Mathematics for ML: https://mml-book.github.io/book/mml-book.pdf
 - [ ] Hacking: The Art of Exploitation by Jon Erickson
 - [ ] Hacking: Sparc Flow Books
 
